@@ -1,6 +1,6 @@
 
 
-jQrack:
+#**jQrack:**
 
 Javascript and JQuery based Two Player Versus Game
 
@@ -16,13 +16,15 @@ Just click the correct answer...if you can.
 
 
 
-To Play:
+##**To Play:**
 
-Visit: http://shager11.github.io/ 
+Visit: http://samhager11.github.io/ 
 
+![jQrack Screenshot 1](./images/Entry.png)
+![jQrack Screenshot 2](./images/Play.png)
+![jQrack Wireframe](./images/Wireframe.png)
 
-
-Development process:
+###Development process:
 
 Technologies used: HTML / CSS / Javascript + JQuery
 
@@ -30,7 +32,7 @@ By creating a 'Category' object constructor, the game is able to be easily popul
 
 The jQuery and CSS transitions and animations implemented provide an element of excitement to the game play but transtions could be improved with additional refinement and 
 
-Not-Yet-Implemented:
+###Not-Yet-Implemented:
 
 - Optimize for Mobile play
 - Bonus rounds that award increased points along with additional categories and questions
