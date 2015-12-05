@@ -22,7 +22,7 @@ Visit: http://samhager11.github.io/
 
 ![jQrack Screenshot 1](./Images/Entry.png)
 ![jQrack Screenshot 2](./Images/Play.png)
-![jQrack Wireframe](./Images/Wireframe.png)
+![jQrack Wireframe](./Images/Wireframe.jpg)
 
 ###Development process:
 
