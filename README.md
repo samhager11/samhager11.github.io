@@ -2,7 +2,7 @@
 
 #**jQrack:**
 
-Javascript and JQuery based Two Player Versus Game
+JavaScript and jQuery based Two Player Versus Game
 
 A two-player game that pits the jQuery knowledge of one player against the other. The trivia questions cover an assortment of topics from the jQuery library and are designed to test your lightning quick knowledge of jQuery.
 
