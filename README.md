@@ -20,9 +20,9 @@ Just click the correct answer...if you can.
 
 Visit: http://samhager11.github.io/ 
 
-![jQrack Screenshot 1](./images/Entry.png)
-![jQrack Screenshot 2](./images/Play.png)
-![jQrack Wireframe](./images/Wireframe.png)
+![jQrack Screenshot 1](./Images/Entry.png)
+![jQrack Screenshot 2](./Images/Play.png)
+![jQrack Wireframe](./Images/Wireframe.png)
 
 ###Development process:
 
