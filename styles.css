@@ -8,13 +8,33 @@
 
 }
 
+/*////GAME SCREEN/////////////////////*/
+#screen {
+  width: 800px;
+  height: 700px;
+  text-align: center;
+  background-color: rgba(15, 15, 15, .9);
+  border: 20px groove;
+  border-radius: 20px;
+  border-top-color: rgba(175,124,224,1);
+  border-left-color: rgba(63, 241, 180, 1);
+  border-right-color: rgba(232, 105,113, 1);
+  border-bottom-color: rgba(250,171,64, 1);
+  margin-top: 30px;
+}
+
 /*////////////DIALOG BOX/////////////*/
 #my-modal{
-  position: fixed;
+  position: absolute;
+  top:0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+
   height: 500px;
   width: 500px;
-  left: 29%;
-  top: 12%;
+
   border: 20px groove;
   border-radius: 20px;
   background-color: rgba(15, 15, 15, .8);
@@ -72,20 +92,7 @@
   background-color: white;
 }
 
-/*////GAME SCREEN/////////////////////*/
-#screen {
-  width: 800px;
-  height: 700px;
-  text-align: center;
-  background-color: rgba(15, 15, 15, .9);
-  border: 20px groove;
-  border-radius: 20px;
-  border-top-color: rgba(175,124,224,1);
-  border-left-color: rgba(63, 241, 180, 1);
-  border-right-color: rgba(232, 105,113, 1);
-  border-bottom-color: rgba(250,171,64, 1);
 
-}
 
 
 /*///Div containers in body of screen///*/

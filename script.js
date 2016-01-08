@@ -38,7 +38,7 @@ var eventQuestion6 = ['Which event will listen for (and bind an event on) a key 
 
 var eventQuestion7 = ['Which event object property returns the DOM element that initiated the event?','target',['data','type','Vin Diesel']];
 
-var eventQuestion8 = ['How many beers has Tony had today?','All of them',['just one','zero','false']];
+var eventQuestion8 = ['What is the best coding language?','All of them',['null','true','false']];
 
 //Finding Elements Category questions - not completed
 var findQuestion1 = ['Which jQuery method allows you to find the nearest ancestor (not just parent) that matches the selector?','.closest()',['.familyTree()','.stepCousin()','.ancestor()']];
@@ -180,7 +180,7 @@ function setAndShowActiveCategory(){
     } else{
       $('#player2').addClass('activePlayer')
     }
-  
+
   //set Active Category with Category Name
   var spinCategory = activeCategory.catName;
 
